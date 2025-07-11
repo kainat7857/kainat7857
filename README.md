@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kainat</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
@@ -21,16 +22,15 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="kainat-stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kainat5787&show_icons=true&theme=tokyonight" alt="Kainat's GitHub stats" />
 </p>
 
 ---
 
 ### 📫 Contact me:
 
-📧 Email: your-email@example.com  
-🌐 Portfolio: *(Add when ready)*  
+📧 Email: *(kainatali40670@gmail.com)*
 
 
 <!--
