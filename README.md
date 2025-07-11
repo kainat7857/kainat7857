@@ -18,13 +18,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kainat5787&show_icons=true&theme=tokyonight" alt="Kainat's GitHub stats" />
-</p>
 
 ---
 
